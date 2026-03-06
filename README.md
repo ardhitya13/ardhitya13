@@ -142,8 +142,21 @@ Here are some ideas to get you started:
 </div>
 
 ---
-#### **📊My Github Stats**
-[![Ardhitya13 GitHub stats](https://github-readme-stats.vercel.app/api?username=ardhitya13&show_icons=true&theme=radical)](https://github.com/ardhitya13)
+## **📊My Github Stats**
+![Profile Views](https://komarev.com/ghpvc/?username=ardhitya13&color=blueviolet&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/ardhitya13?style=for-the-badge)](https://github.com/ardhitya13)
+[![GitHub stars](https://img.shields.io/github/stars/ardhitya13?style=for-the-badge)](https://github.com/ardhitya13)
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-ardhitya13.vercel.app/api?username=ardhitya13&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-ardhitya13.vercel.app/api/top-langs/?username=ardhitya13&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=ardhitya13&theme=radical&hide_border=true&border_radius=12" />
+</p>
 
 ---
 

@@ -142,6 +142,10 @@ Here are some ideas to get you started:
 </div>
 
 ---
+#### **📊My Github Stats**
+[![Ardhitya13 GitHub stats](https://github-readme-stats.vercel.app/api?username=ardhitya13&show_icons=true&theme=radical)](https://github.com/ardhitya13)
+
+---
 
 ## 🚀 Featured Projects
 

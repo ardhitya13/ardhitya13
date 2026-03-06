@@ -18,18 +18,21 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repo content
-        uses: actions/checkout@v3
-
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          node-version: '20'
 
-      - name: List generated files
-        run: ls -la dist/
+      - name: Create dist directory
+        run: mkdir -p dist
 
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Install and generate pacman animation
+        run: |
+          npm install -g pacman-contribution-graph
+          pacman-contribution-graph --username ${{ github.repository_owner }} --output dist/pacman-contribution-graph.svg
+          pacman-contribution-graph --username ${{ github.repository_owner }} --output dist/pacman-contribution-graph-dark.svg --theme github-dark
+
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

@@ -27,8 +27,8 @@ jobs:
       - name: Install and generate pacman animation
         run: |
           npm install -g pacman-contribution-graph
-          pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --output dist/pacman-contribution-graph.svg
-          pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --output dist/pacman-contribution-graph-dark.svg --gameTheme github-dark
+          pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --gameTheme github --output dist/pacman-contribution-graph.svg
+          pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

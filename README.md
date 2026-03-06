@@ -168,7 +168,7 @@ Here are some ideas to get you started:
 
 ## 💡 Current Learning Journey
 
-- 🎯 Mastering **Full Stack Development** with Next.js & MongoDB
+- 🎯 Mastering **Full Stack Development** with Next.js & MySQL
 - 📚 Studying **System Design** and **Algorithms**
 - 🎮 Building **Game Development** projects with JavaScript Canvas
 - 🎨 Improving UI/UX with **Flowbite** and **Tailwind CSS**
@@ -215,7 +215,7 @@ Here are some ideas to get you started:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ardhitya13.ardhitya13&left_color=green&right_color=red)
 
 ⭐ **Thanks for visiting my profile! Don't forget to leave a star if you like my work!**
-
+ 
 *"Code is poetry written for computers, but read by humans."*
 
 </div>

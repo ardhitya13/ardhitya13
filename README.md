@@ -80,35 +80,8 @@ Here are some ideas to get you started:
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  
-![Ardhitya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardhitya13&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhitya13&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎮 Play Snake Game
-
-<div align="center">
-
-**Try my Snake Game! Use Arrow Keys or WASD to move** 🕹️
-
-```
-🟩 🟩 🟩 🟩 🟩
-⬜ ⬜ ⬜ ⬜ 🟩
-🍎 ⬜ ⬜ ⬜ 🟩
-⬜ ⬜ ⬜ ⬜ 🟩
-⬜ ⬜ ⬜ ⬜ ⬜
-```
-
-[👉 Play Full Version on My Repository](https://github.com/ardhitya13)
 
 </div>
 
@@ -134,9 +107,10 @@ Here are some ideas to get you started:
 
 <div align="center">
   
+  [![Email](https://img.shields.io/badge/Email-ardhityasiswondo%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ardhityasiswondo@gmail.com)
   [![Email](https://img.shields.io/badge/Email-ardhityapubgmobile%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ardhityapubgmobile@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-ardhitya13-black?style=for-the-badge&logo=github)](https://github.com/ardhitya13)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ardhitya_Danur_Siswondo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
   _Feel free to reach out for collaborations or just a friendly chat!_
 

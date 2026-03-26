@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![demo](movie/ar.gif)
 
+
 🚀 **Full Stack Developer | Tech Enthusiast | Open Source Contributor**
 
 ---
@@ -209,6 +210,8 @@ Here are some ideas to get you started:
 
 ###
 ---
+
+![demo](movie/aa.gif)
 
 <div align="center">
   

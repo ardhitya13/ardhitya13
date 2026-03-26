@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Ardhitya Danur Siswondo
 
-![demo](movie/1.gif)
+![demo](movie/ar.gif)
 
 🚀 **Full Stack Developer | Tech Enthusiast | Open Source Contributor**
 

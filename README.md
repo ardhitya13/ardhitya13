@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Ardhitya Danur Siswondo
 
-![demo](movie/aa.gif)
+![demo](movie/1.gif)
 
 🚀 **Full Stack Developer | Tech Enthusiast | Open Source Contributor**
 
@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 ## 👨‍💻 About Me
 
 ```
-🎯 Passionate Software Developer with interest in Web Development
-🌱 Continuously learning and improving my coding skills
-💡 Love building scalable applications and exploring new technologies
-🎮 Gamer at heart & Tech enthusiast
-📚 Student | Open Source Advocate
-⚡ Always looking for interesting challenges and collaborations
+🎯 Active 4th semester student at Politeknik Negeri Batam with a strong passion for technology
+🌐 Web Developer focused on building modern, responsive, and useful websites
+🌱 Continuously learning and improving my frontend and backend development skills
+💡 Enjoy exploring new technologies and turning ideas into real projects
+🎮 Mobile Legends player and tech enthusiast
+⚡ Open to interesting challenges, collaborations, and growth opportunities
 ```
 
 ---
@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-**Passionate Gamer | Game Development Enthusiast**
+**4th Semester Student at Politeknik Negeri Batam | Web Developer | Mobile Legends Enthusiast**
 
-🎮 Created a **Snake Game** with smooth movement mechanics and dynamic gameplay  
-🕹️ Love exploring game design patterns and mechanics  
-🎯 Interested in game development with **JavaScript Canvas**, **Phaser**, **Unity**  
-🏆 Enjoy building interactive gaming experiences
+💻 Passionate about creating clean, responsive, and functional web applications  
+🎮 Enjoy spending free time playing **Mobile Legends**  
+📱 Interested in technology, web trends, and digital creativity  
+🚀 Always excited to learn, grow, and improve as a developer
 
 </div>
 
@@ -170,7 +170,7 @@ Here are some ideas to get you started:
 
 - 🎯 Mastering **Full Stack Development** with Next.js & MySQL
 - 📚 Studying **System Design** and **Algorithms**
-- 🎮 Building **Game Development** projects with JavaScript Canvas
+- 🌐 Deepening my skills in **Web Development** with modern tools and best practices
 - 🎨 Improving UI/UX with **Flowbite** and **Tailwind CSS**
 - 🔐 Learning **Web Security** & **Best Practices**
 

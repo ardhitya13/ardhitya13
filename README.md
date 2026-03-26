@@ -186,7 +186,7 @@ Here are some ideas to get you started:
   [![GitHub](https://img.shields.io/badge/GitHub-ardhitya13-black?style=for-the-badge&logo=github)](https://github.com/ardhitya13)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ardhitya_Danur_Siswondo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
   [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281363723553)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yGNwgFwx)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vAnbxFHNZM)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ardhitya.siswondo.3/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ardhitya__?igsh=YmlsamF6djRpbzg2&utm_source=qr)
   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ardhitya2.0?_r=1&_t=ZS-94SI9beGlmP)
